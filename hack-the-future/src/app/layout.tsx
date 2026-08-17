@@ -22,6 +22,13 @@ export const metadata: Metadata = {
       "Train. Build. Battle. Evolve. Join 500+ trainers at Tulas University, Dehradun for 36 hours of intense coding and win over ₹1 Lakh in prizes.",
     type: "website",
   },
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+    shortcut: "/favicon.svg",
+    apple: "/favicon.svg",
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
