@@ -177,7 +177,7 @@ export const trackPrizes = [
   { track: "Best AI Hack", amount: "₹10,000", pokemon: "/pokemon/alakazam.png" },
   { track: "Best Web3 Hack", amount: "₹10,000", pokemon: "/pokemon/mewtwo.png" },
   { track: "Best IoT Hack", amount: "₹10,000", pokemon: "/pokemon/zapdos.png" },
-  { track: "Fan Favorite", amount: "₹5,000", pokemon: "/pokemon/pikachu.png" },
+  { track: "Fan Favorite", amount: "₹5,000", pokemon: "/pokk/imgi_90_transparent-pokemon-adorable-pikachu-character-from-pokemon-1710857934434.webp" },
 ];
 
 export const mentors = [
@@ -296,7 +296,7 @@ export const aboutFeatures = [
     title: "Choose Your Starter",
     description: "Pick from 5 unique tracks and build something extraordinary in your chosen domain.",
     icon: "🎯",
-    pokemon: "/pokemon/pikachu.png",
+    pokemon: "/pokk/imgi_1_transparent-pokemon-yellow-pikachu-with-red-jacket-determined-1710857891828.webp",
   },
   {
     title: "Train With The Best",
