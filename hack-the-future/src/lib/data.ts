@@ -3,8 +3,8 @@ export const siteConfig = {
   tagline: "TRAIN. BUILD. BATTLE. EVOLVE.",
   description:
     "The ultimate Pokémon-themed hackathon where trainers from across the region come together to build, innovate, and compete. 36 hours of non-stop coding, mentorship, and evolution.",
-  date: "September 20-21, 2026",
-  venue: "Indigo Plateau Convention Center, Bangalore",
+  date: "September 11-12, 2026",
+  venue: "Tulas University, Dehradun",
   registrationUrl: "#register",
 };
 
@@ -93,7 +93,7 @@ export const timeline = [
   {
     step: 1,
     title: "Registration Opens",
-    date: "Aug 15, 2026",
+    date: "Aug 20, 2026",
     description:
       "Begin your journey! Sign up and choose your starter track. Form your team of up to 4 trainers.",
     pokemon: "/pokemon/caterpie.png",
@@ -102,7 +102,7 @@ export const timeline = [
   {
     step: 2,
     title: "Opening Ceremony",
-    date: "Sep 20, 9:00 AM",
+    date: "Sep 11, 9:00 AM",
     description:
       "The Professor welcomes all trainers. Problem statements revealed. The battle begins!",
     pokemon: "/pokemon/metapod.png",
@@ -111,7 +111,7 @@ export const timeline = [
   {
     step: 3,
     title: "Hacking Begins",
-    date: "Sep 20, 10:00 AM",
+    date: "Sep 11, 10:00 AM",
     description:
       "36 hours of intense building. Gym Leaders available for mentorship. Midnight snacks provided.",
     pokemon: "/pokemon/charmeleon.png",
@@ -120,7 +120,7 @@ export const timeline = [
   {
     step: 4,
     title: "Mid-Check Review",
-    date: "Sep 20, 10:00 PM",
+    date: "Sep 11, 10:00 PM",
     description:
       "Present your progress to Gym Leaders. Get feedback, pivot if needed, and power up your project.",
     pokemon: "/pokemon/ivysaur.png",
@@ -129,7 +129,7 @@ export const timeline = [
   {
     step: 5,
     title: "Final Submissions",
-    date: "Sep 21, 10:00 PM",
+    date: "Sep 12, 10:00 PM",
     description:
       "Submit your project on Devfolio. Record your demo video. Prepare your pitch deck.",
     pokemon: "/pokemon/butterfree.png",
@@ -138,7 +138,7 @@ export const timeline = [
   {
     step: 6,
     title: "Demo Day & Awards",
-    date: "Sep 21, 2:00 PM",
+    date: "Sep 12, 2:00 PM",
     description:
       "Present to the Elite Four judges. Winners crowned. Champion's League prizes awarded!",
     pokemon: "/pokemon/charizard.png",

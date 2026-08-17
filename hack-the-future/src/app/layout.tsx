@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Hack The Future 3.0 — The Ultimate Pokémon-Themed Hackathon",
   description:
-    "Join 500+ trainers for 36 hours of intense coding, mentorship, and evolution. Choose your type, battle in the arena, and win over ₹1 Lakh in prizes. September 2026.",
+    "Join 500+ trainers for 36 hours of intense coding, mentorship, and evolution. Choose your type, battle in the arena, and win over ₹1 Lakh in prizes. September 11-12, 2026 · Tulas University, Dehradun.",
   keywords: [
     "hackathon",
     "pokemon",
@@ -13,11 +13,13 @@ export const metadata: Metadata = {
     "hack the future",
     "programming",
     "competition",
+    "tulas university",
+    "dehradun",
   ],
   openGraph: {
     title: "Hack The Future 3.0 — The Ultimate Pokémon-Themed Hackathon",
     description:
-      "Train. Build. Battle. Evolve. Join 500+ trainers for 36 hours of intense coding and win over ₹1 Lakh in prizes.",
+      "Train. Build. Battle. Evolve. Join 500+ trainers at Tulas University, Dehradun for 36 hours of intense coding and win over ₹1 Lakh in prizes.",
     type: "website",
   },
 };
